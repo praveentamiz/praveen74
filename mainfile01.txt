@@ -1,2 +1,10 @@
+<<<<<<< HEAD
 scussing about some merging concept
 this line 01
+=======
+ryyrdoi
+56r9
+qryry9a
+oru9
+
+>>>>>>> testbranch
